@@ -1,3 +1,5 @@
+![doomfire](https://github.com/user-attachments/assets/0b8f9324-1c3b-47d2-bfd6-2a3c50f3c71a)
+
 # Doom-Fire
 
 This project replicates the iconic fire effect used in the loading screen of the PlayStation 1 port of Doom. I decided to implement it in C++ using SFML, both for fun and as a personal challenge since I haven't worked with SFML in a while.
