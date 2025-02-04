@@ -4,7 +4,7 @@ This project replicates the iconic fire effect used in the loading screen of the
 
 # Dependencies
 * SFML
- Cmake
+* Cmake
 
 # How to run
 1) ```git clone <repository>```
