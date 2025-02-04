@@ -15,8 +15,8 @@ This project replicates the iconic fire effect used in the loading screen of the
 6) enjoy
 
 # Controls
-* Enter to run the effect
-* Space to stop the effect
+* Press Enter to run the effect
+* Press Space to stop the effect
 
 # Acknowledgments
 https://fabiensanglard.net/doom_fire_psx/
