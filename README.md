@@ -17,7 +17,7 @@ This project replicates the iconic fire effect used in the loading screen of the
 5) ```cmake --build .```
 6) ```./DoomFire```
 7) Don't forget to press the Enter to start the fire effect
-8) enjoy
+8) Enjoy
 
 # Controls
 * Press Enter to run the effect
