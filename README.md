@@ -6,7 +6,7 @@
 This project replicates the iconic fire effect used in the loading screen of the PlayStation 1 port of Doom. I decided to implement it in C++ using SFML, both for fun and as a personal challenge since I haven't worked with SFML in a while.
 
 # Dependencies
-* SFML 2.6
+* SFML 3.0
 
 # How to run
 1) ```git clone <repository>```
